@@ -1,13 +1,13 @@
+
 <div align="center">
 
-# Hi, I'm Tanmay Yadav 👋
+# Tanmay Yadav
 
-### Graduate Engineer @ ANZ Bank | IIT (BHU) Varanasi '25
+### Software Engineer @ ANZ
 
-Building scalable backend systems, cloud platforms, and AI-powered applications.
+Building scalable backend systems, cloud-native platforms, and AI-powered applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanmay%20Yadav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanmay-yadav1710)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tanmayyadav1710@gmail.com)
+📧 tanmayyadav1710@gmail.com • 💼 LinkedIn: Tanmay Yadav
 
 </div>
 
