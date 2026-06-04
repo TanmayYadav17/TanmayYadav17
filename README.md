@@ -10,7 +10,6 @@ Building scalable backend platforms, distributed systems, and AI-powered applica
 
 📫 **Connect with me**
 
-[📧 Email](mailto:tanmayyadav1710@gmail.com) •
 [💼 LinkedIn](https://www.linkedin.com/in/tanmay-yadav1710) •
 [💻 GitHub](https://github.com/TanmayYadav17)
 
@@ -151,5 +150,3 @@ Physics-Informed Neural Network implementation for beam deflection estimation.
 🏅 CodeChef 4★ (Max Rating: 1872)
 
 🏅 Codeforces Specialist (Max Rating: 1463)
-
-📈 Gold Level Research Consultant @ WorldQuant
