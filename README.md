@@ -1,13 +1,18 @@
-
 <div align="center">
 
-# Tanmay Yadav
+# Hi, I'm Tanmay 👋
 
-### Software Engineer @ ANZ
+### Software Engineer @ ANZ • IIT (BHU) Varanasi '25
 
-Building scalable backend systems, cloud-native platforms, and AI-powered applications.
+Building scalable backend platforms, distributed systems, and AI-powered applications.
 
-📧 tanmayyadav1710@gmail.com • 💼 LinkedIn: Tanmay Yadav
+<br>
+
+📫 **Connect with me**
+
+[📧 Email](mailto:tanmayyadav1710@gmail.com) •
+[💼 LinkedIn](https://www.linkedin.com/in/tanmay-yadav1710) •
+[💻 GitHub](https://github.com/TanmayYadav17)
 
 </div>
 
