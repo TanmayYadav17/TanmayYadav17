@@ -2,10 +2,6 @@
 
 # Hi, I'm Tanmay 👋
 
-### Software Engineer @ ANZ • IIT (BHU) Varanasi '25
-
-Building scalable backend platforms, distributed systems, and AI-powered applications.
-
 <br>
 
 📫 **Connect with me**
