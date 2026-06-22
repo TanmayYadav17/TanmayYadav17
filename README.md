@@ -4,10 +4,7 @@
 
 <br>
 
-📫 **Connect with me**
-
 [💼 LinkedIn](https://www.linkedin.com/in/tanmay-yadav1710) •
-[💻 GitHub](https://github.com/TanmayYadav17)
 
 </div>
 
