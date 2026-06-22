@@ -4,7 +4,7 @@
 
 <br>
 
-[💼 LinkedIn](https://www.linkedin.com/in/tanmay-yadav1710) •
+[💼 LinkedIn](https://www.linkedin.com/in/tanmay-yadav1710)
 
 </div>
 
@@ -20,10 +20,9 @@ My interests span:
 
 - Backend Engineering
 - Distributed Systems
-- Cloud Infrastructure
 - Platform Engineering
+- Machine Learning
 - Generative AI & LLM Applications
-- Quantitative Research
 - Competitive Programming
 
 ---
