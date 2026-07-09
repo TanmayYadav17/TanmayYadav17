@@ -1,4 +1,4 @@
-## Hi there👋, Its Tanmay [<img src="https://skillicons.dev/icons?i=linkedin" width="22" height="22" alt="LinkedIn" style="vertical-align:-16px" />](https://www.linkedin.com/in/tanmay-yadav1710)
+## Hi there👋, Its Tanmay
 
 I'm a Graduate Engineer at ANZ Bank and an IIT (BHU) Varanasi graduate with interests in backend engineering, distributed systems, and AI-powered applications.
 
