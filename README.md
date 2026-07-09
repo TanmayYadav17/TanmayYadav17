@@ -7,6 +7,7 @@ At ANZ, I contribute to a microservices-based API mediation platform supporting 
 Previously, at ZS Associates, I worked on a RAG-based LLM application, improving framework selection accuracy through prompt engineering, automated evaluation pipelines, and NLP-based optimizations.
 
 I enjoy building scalable systems, solving complex engineering problems, and applying AI to create practical, high-impact solutions.
+
 ---
 
 ## Tech Stack
